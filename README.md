@@ -58,17 +58,17 @@
 
 ## :sparkles: Funcionalidades ##
 
-- [x] Listar e visualizar memórias(eventos) salvas;\
-- [x] Inserir novas memórias;\
-- [x] Acesso autenticado;\
-- [ ] Visualizar memórias únicas;\
-- [ ] Inserir data e hora específicas para uma memória;\
-- [ ] Editar memórias salvas;\
-- [ ] Remover memórias;\
-- [ ] Buscar por memórias com base no título ou data;\
-- [ ] Link para compartilhar memórias;\
-- [ ] Curtir uma memória;\
-- [ ] Se inscrever para receber novas memórias;\
+- [x] Listar e visualizar memórias(eventos) salvas;
+- [x] Inserir novas memórias;
+- [x] Acesso autenticado;
+- [ ] Visualizar memórias únicas;
+- [ ] Inserir data e hora específicas para uma memória;
+- [ ] Editar memórias salvas;
+- [ ] Remover memórias;
+- [ ] Buscar por memórias com base no título ou data;
+- [ ] Link para compartilhar memórias;
+- [ ] Curtir uma memória;
+- [ ] Se inscrever para receber novas memórias;
 - [ ] Bloquear memória para alguns usuários;
 
 ## :rocket: Tecnologias ##
