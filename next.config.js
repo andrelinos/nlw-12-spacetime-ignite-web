@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  images: {
+    domains: [
+      'avatars.githubusercontent.com',
+      `${process.env.NEXT_PUBLIC_IP_ADDRESS}`,
+    ],
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
